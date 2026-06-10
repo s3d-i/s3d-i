@@ -1,6 +1,6 @@
 # Hi, I’m s3d-i
 
-A systems-minded second-year BS student currently studying at BUPT, China. Preparing to transfer to the University of Melbourne or the University of Sydney (USYD).
+A systems-minded BS student currently studying at BUPT, China. Preparing to transfer to the University of Melbourne or the University of Sydney (USYD).
 
 Currently working on:
 - [Pulsefield](https://github.com/Pulsefield), a project aiming to create a real-time ambient music sync beatmap play experience. I work across research and engineering: real-time music recognition and synchronization, timing and beat-phase analysis, beatmap structure and representation, playable pattern generation, and platform-specific performance optimization.
